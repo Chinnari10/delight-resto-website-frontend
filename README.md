@@ -1,0 +1,1 @@
+# Delight Resto is a modern and responsive restaurant website frontend designed with appealing visuals and smooth navigation. It features a stylish homepage, menu showcase, and contact section to attract and engage visitors. Built using HTML, CSS, and JavaScript for an elegant user experience
